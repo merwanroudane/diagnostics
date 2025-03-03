@@ -80,7 +80,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title and Introduction
-st.markdown('<div class="main-header">Understanding OLS Assumption Violations</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-header">Understanding OLS Assumption Violations by Dr Merwan Roudane </div>', unsafe_allow_html=True)
 st.markdown(
     '<div class="card">This interactive guide helps you teach students about OLS assumption violations, with special focus on how these violations affect the distributions of OLS estimators, test statistics (F and t), and standard errors. The goal is to clearly demonstrate why these problems matter in practice and how they impact statistical inference.</div>',
     unsafe_allow_html=True)
